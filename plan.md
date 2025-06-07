@@ -1,0 +1,19 @@
+- ## I. Wprowadzenie do tematu:
+  -  jak wygląda sytuacja z seriwsowaniem pociagów, czemu jest to aż tak kosztowne i od kiedy robią to inne firmy niż producent pociągów
+  -  jak objawiały się dziwne zachowania pociągów Newagu i co skłoniło serwis do skontaktowania się z grupą hakerów
+  -  przedstawienie Dragon Sector (konkretnie zaangżowanych)
+- ## II. Działania Dragon Sector
+  -  aspekt techniczny, w jaki sposób analizowali kod
+  -  jak dynamicznie Newag zmieniał blokady w pociągach i w jaki sposób było to widoczne
+  -  co udało się odkryć, w jaki sposób Newag sabotował pociagi
+  -  konferencja upubliczniająca wyniki analiz
+- # III. Następstwa oskarżenia
+  - reakcja Newagu, Koleji Dolnośląskich itd...
+  - kwestia legalności działań Dragon Sector
+  - pozwy ... (czy Newagowi wogóle można udowodnić winy? - aspekt techniczny)
+  - przedstawienie podobnych spraw sądowych (m.in. rozpatrywnych na szczeblu UE - sprawa Top System)
+- # IV. Podsumowanie
+  - jakiego wyroku można się spodziwać?
+  - do czego ten świat zmierza... (Wspomnienie podobych przekrętów - np. mimializacja emisji spalin przez VW jedynie w czasie testów, a nie podczas normalnej eksploatacji)
+  - co gdyby takie oprogramowania pociągów były open source? - wady/zalety (oprogramowanie też powinno móc się serwisować?)
+  
