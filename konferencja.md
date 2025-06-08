@@ -42,7 +42,7 @@ Magistrala CANopen traffic - różnica w trafficu dla działającego pociągu i 
 |Pociąg|CANopen traffic|
 |------|---------------|
 |45WE-022, działa|ID: ``0x0212`` <br> Playload: ``01 1f 0b 0b 0b 0b 52 00`` <br> Sent by CPU on CAN1|
-|54WE-023, uziemiony|ID: ``0x0212`` <br> Playload: ``01 1f 0b 0b 0b 0b 52 00`` <br> Sent by CPU on CAN1|
+|54WE-023, uziemiony|ID: ``0x0212`` <br> Playload: ``01 0f 00 00 00 00 52 00`` <br> Sent by CPU on CAN1|
 
 Widzimy różnicę w przesyłanych bitach. Hakerzy uznali że różnica leży gdzieś pomiędzy PLC a Inverterem.  
 
