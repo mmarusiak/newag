@@ -1,11 +1,12 @@
 **FILM Z KONFERENCJI**  
-- [ ] https://www.youtube.com/watch?v=XrlrbfGZo2k  
+- [x] https://www.youtube.com/watch?v=XrlrbfGZo2k  
 
 To wygląda jak aftermath sytuacji: 
 - [ ] https://www.youtube.com/watch?v=8OB2NqcSDXQ  
 
 - [ ] https://www.youtube.com/watch?v=Qht3abt7Tx8  
 
+- [ ] https://www.youtube.com/watch?v=XrlrbfGZo2k - PO POLSKU
 
 **INNE MATERIAŁY**  
 
