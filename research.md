@@ -6,7 +6,7 @@ To wygląda jak aftermath sytuacji:
 
 - [ ] https://www.youtube.com/watch?v=Qht3abt7Tx8  
 
-- [ ] https://www.youtube.com/watch?v=XrlrbfGZo2k - PO POLSKU
+- [ ] https://www.youtube.com/watch?v=iZUDUAwEm3Y&t=333s - PO POLSKU
 
 **INNE MATERIAŁY**  
 
